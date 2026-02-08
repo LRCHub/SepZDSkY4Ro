@@ -1,0 +1,40 @@
+# The Beatles – Paperback Writer
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.05] Paperback writer (paperback writer, writer)
+[00:21.55] 
+[00:12.18] Dear Sir or Madam, will you read my book?
+[00:15.04] It took me years to write, will you take a look?
+[00:18.32] It's based on a novel by a man named Lear
+[00:21.12] And I need a job, so I want to be a paperback writer
+[00:26.78] Paperback writer
+[00:34.78] 
+[00:30.27] It's a dirty story of a dirty man
+[00:33.34] And his clinging wife doesn't understand
+[00:36.46] His son is working for the Daily Mail
+[00:39.25] It's a steady job, but he wants to be a paperback writer
+[00:44.84] Paperback writer
+[00:52.84] 
+[00:48.90] Paperback writer (paperback writer, writer)
+[01:10.40] 
+[01:00.96] It's a thousand pages, give or take a few (Frère Jacques)
+[01:04.11] I'll be writing more in a week or two
+[01:07.08] I could make it longer if you like the style (Frère Jacques)
+[01:10.04] I can change it 'round, and I want to be a paperback writer
+[01:15.48] Paperback writer
+[01:23.48] 
+[01:19.11] If you really like it, you can have the rights (Frère Jacques)
+[01:22.04] It could make a million for you overnight
+[01:25.32] If you must return it, you can send it here (Frère Jacques)
+[01:28.31] But I need a break, and I want to be a paperback writer
+[01:33.66] Paperback writer
+[01:41.66] 
+[01:37.76] Paperback writer (paperback writer, writer)
+[01:59.26] 
+[01:50.05] (Paperback writer) paperback writer
+[01:56.11] (Paperback writer) paperback writer
+[02:02.37] (Paperback writer) paperback writer
+[02:08.23] (Paperback writer) paperback writer
+```
