@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Paperback Writer",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-08T19:12:14.557797Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paperback Writer",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Paperback_Writer_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paperback Writer",
+      "artist": "The Shadows",
+      "has_synced": false,
+      "path": "select/02_Paperback_Writer_The_Shadows.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paperback Writer - 2022 Stereo Mix",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Paperback_Writer_-_2022_Stereo_Mix_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paperback Writer (2022 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Paperback_Writer_(2022_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paperback Writer - Mono",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Paperback_Writer_-_Mono_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paperback Writer (mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Paperback_Writer_(mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paperback Writer",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/07_Paperback_Writer_Saxon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paperback Writer (2015 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Paperback_Writer_(2015_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paperback Writer",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/09_Paperback_Writer_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paperback Writer (2022 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Paperback_Writer_(2022_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paperback Writer (mono)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/11_Paperback_Writer_(mono)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paperback Writer",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Paperback_Writer_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paperback Writer",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Paperback_Writer_The_Beatles.txt"
+    }
+  ]
+}
